@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716b02625bc465e4a8edba3241dc20cc, type: 3}
+  m_Name: NotCoin
+  m_EditorClassIdentifier: 
+  id: 1
+  itemName: "\u041C\u0435\u0447"
+  value: 1
+  stackSize: 1
+  description: "\u041E\u0441\u0442\u0440\u044B\u0439"
+  condition: 10
+  cost: 3
+  icon: {fileID: 21300000, guid: 53477537fde0fe9429d96d3df521f4f2, type: 3}
+  prefab: {fileID: 2179335919733523450, guid: 82f75c2e0430d6549afb42f7ead29209, type: 3}
